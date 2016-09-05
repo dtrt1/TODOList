@@ -1,0 +1,1 @@
+import React from 'react';import {render} from 'react-dom';import ListBoardContainer from './ListBoardContainer';render(<ListBoardContainer />, document.getElementById('root'));
